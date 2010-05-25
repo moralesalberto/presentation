@@ -1,0 +1,7 @@
+After 3 years with Rails, I am very happy with the results. 
+
+We are so quick now, that business processes get automated quickly, painlessly. We have the system down.
+
+From development code base, to deployment strategy, it is so automated, and proof of that is the fact that over 50 apps are up and running, on 10 plus servers, with mysql replication for data backup, automatic feed to our colocated facility, an incredible level of automation.
+
+The whole business application system, from idea to runnings application has been streamlined.

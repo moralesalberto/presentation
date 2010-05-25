@@ -1,0 +1,1 @@
+I hope you sense my excitement with Rails in the enterprise. We use Rails every day, to help us streamline real business processes.

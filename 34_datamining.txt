@@ -1,0 +1,5 @@
+One area that we have taken a neat approach has been in the area of reporting. We have leveraged the ability to have abstract classes connecting to multiple databases, and have connected all our rails, and non-rails apps this way.
+
+We have created an application we called the Business Reporter that is able to go to transactional data, transform what it needs to its local database and use the ability to connect to multiple databases as a quick way to get to all our data.
+
+We have used ziya to graph the results and we are reporting on all key revenue areas of the business. And with very little effort.

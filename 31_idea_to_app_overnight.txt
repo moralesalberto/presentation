@@ -1,0 +1,5 @@
+Today, the system is so well tuned, that in occasions I have attended a meeting, we have identified an area that could be automated.
+
+I have literally left that meeting, put something together, deployed it and emailed the URL to the users to show them a working prototype, which is 80% of what they need.
+
+They are just blown away.

@@ -1,0 +1,7 @@
+Our internal developers are there from the design, development, implementation and maintenance of the application. I do not have architects, or testers, or coders. We just have developers. And no matter how experienced the developer, they still CODE.
+
+I have no room for architects or managers. Everyone is there working on projects, providing the value that IT is supposed to provide to the enterprise.
+
+And everyone knows that. If the application does not see the light of day, or if the application is not embraced by the staff, then we do whatever we need to to correct the problem. Our applications are used period.
+
+With internal developers, I never run out of money in the “budget”. I just need to prioritize which application to give the attention to next.

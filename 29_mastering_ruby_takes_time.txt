@@ -1,0 +1,17 @@
+However, I do need to caution anyone considering adopting Rails and inherently Ruby.
+
+It takes time to master the language. Ruby is this great discipline that makes sense from the beginning. But beginer’s eyes see Ruby in a whole different light than expert level Rubyists do.
+
+We have been fully involved in Rails for the past three years, and only now we are really at top speed.
+
+We have rewritten quite a few of our Rails 1.2.3 apps by now, in a completely different style. This goes beyond fat models and skinny controllers. That is just the beginning.
+
+Even in the models, separating concerns into modules, writing at the same level of abstraction, writing one liner methods, it takes time to get it.
+
+But once this is mastered, the applications read beautifully. And maintaining and enhancing the apps is much better now. But it tooks us three years to get here.
+
+Remember, we started with zero knowledge in Ruby. Zero knowledge in Rails, and only academic knowledge of object oriented programming.
+
+The team has read quite a bit, I have purchased pretty much every Ruby book out there, and we all have read them. We block some afternoons and we do code reviews as a group, each of us presents a problem area we have trouble with and as a group we work on making that code read better.
+
+I am happy with the results, but it took time to get here. Time well spent nonetheless.

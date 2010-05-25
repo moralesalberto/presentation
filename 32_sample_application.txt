@@ -1,0 +1,1 @@
+So what specifically do I call a business application? What have we been writing in Rails?

@@ -1,0 +1,5 @@
+Recently we have undertaken two very ambitious projects, a CRM application; a rewrite of our current application that was in 4D and another one from Peoplesoft.
+
+We are that confident in Rails. And I am happy to report that these applications are in the final development stages. 
+
+Rails works well for us.
