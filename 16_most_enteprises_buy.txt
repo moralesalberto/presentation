@@ -12,15 +12,17 @@ Can it handle multiple currencies, and tax compliance worldwide? SURE!
 
 Think who is asking this question, and who is answering it? The person asking the question is a business person, no knowledge of how this is remotely implemented. And think about the person answering; this is the account manager. Maybe even the presales engineer, that could not open the source code even if his life depended on it. These are the people that seal the deal.
 
-So while there are good intentions from the vendor, the way the ERP application was built
-
-So what are these ERP packages like? Imagine if you took the rails applications from 50 of you, all the rails applications that you have written in the last 5 years, and packaged them together. That would give you an idea of an entry level ERP system. Imagine the configuration nightmares to make all those apps work together. Let alone the configuration needed to make them work for all kinds of customers. 
+So what are these ERP packages like? Imagine if you took the rails applications from 50 of you, all the rails applications that you have written in the last 5 years, and packaged them together. Add all the gems that you used, the plugins. That would give you an idea of an entry level ERP system looks like. Imagine the configuration nightmares to make all those apps work together. Let alone the configuration needed to make them work for all kinds of customers. 
 
 ERP vendors buy other smaller ERP companies and just add those other applications into the mix. So even within the same label, you are dealing with different code sets, etc.
 
-And implementing an ERP application is the biggest bait and switch there is. If these are packaged apps, why does it take years to implement? Why do you go through requirements gathering, configuration, testing, etc. Not only that but this “configuration” sometimes involves customizations. So not only do you have to configure, now you have to customize something that you are not familiar at all. So you pay for consultants to help you. and they do not know how to do this, because the outcome of mixing general configuration with code customizations is a nightmare. One peg pushed one place pops up a bug somewhere else. Someone adds a constraint in HR employee creation, now Project Costing does not work.
+And implementing an ERP application is the biggest bait and switch there is. If these are packaged apps, why does it take years to implement? Why do you go through requirements gathering, configuration, testing, etc. Not only that but this “configuration” sometimes involves customizations. So not only do you have to configure, now you have to customize something that you are not familiar at all. So you pay for consultants to help you. And they do not know how to do this, because the outcome of mixing general configuration with code customizations is a nightmare. It took us over a week to get our own ERP application to print a check. And the thing is, you lose perspective. The team was so happy that they could actually print the check!
 
-Still most businesses go this route. They are slowly waking up to the mess they are in, but they find themselves buried with all this software in their operations. It is hard to remove. And I am no exception. I have purchased a couple of ERP applications during my tenure, and I removed one, and we are learning to live with the other. 
+Still most businesses go this route. We purchased an ERP package to handle the General Ledger and Project Costing. And it took a while to get than under control.
+
+Luckily, enterprises are slowly waking up to the mess they are in, and are challenging these ERP vendors. Some of them are not paying maintenance anymore. And why should they? If they encounter a problem they are on their own because of their customizations. So they have to hire consultants anyway. So they do away with maintenance. Others are realizing that they will never be able to upgrade, so they stay behind on whatever version works for them. Others are slowly ripping the ERP system out. 
+
+And let me tell you, these systems get embedded in your processes are are hard to remove. And I am no exception. I have purchased a couple of ERP applications during my tenure, and I removed one, and we are learning to live with the other. In the end, these systems persist their data in a database and we have learned to get to the data that way. 
 
 Sometimes you can not avoid it, you will have packaged apps in the enterprise.
 

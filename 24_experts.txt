@@ -1,0 +1,13 @@
+Going into any new technology requires a ramp up period, and one needs to rely on both internal expertise and technology experts.
+
+In house experts know the business domain well, they know what works at the company, what doesn't. They know the culture, and they will be the ones doing the work eventually. There is skin in the game for them.
+
+For technology expert, I contacted Chad Fowler and we engaged him as our advisor. I recall our first session, we camped at a hotel in Dulles. I brought all my black belts (my most seasoned developers) and Chad. We spent three days, living, breathing, and dining on Rails.
+
+For this retreat, I picked an application for each of us and we were doing part theory, part writing code. After class, we had the meeting place to ourserlves and we would stay there at night, coding away. Chad would return in the morning and we would have questions for him. Always using our own business processes, real case scenarios. None of, “this is just an example”. We were working on real things.
+
+I was writing a compliance control application, another one wrote an FAQ system, someone else wrote our authentication system still in use today, and someone else wrote our batch structure (how to run background jobs).
+
+We had a blast, we were excited, and we were also a bit leary at the same time. Awesome feelings, at those moments you feel alive!
+
+

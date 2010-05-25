@@ -1,0 +1,11 @@
+So how do we do it? 
+
+Our culture of being HANDS ON, combined with our desire to keep things simple has served us well over the years.
+
+When I meet with the Business VP of that group, I bring as much into that conversation in terms of knowledge of the business as he does. One of my team developers also attends and this person also brings operational knowledge, not just development skills. That is key. At OPNET, our developers are software architects, business analyst, and developer all in one.
+
+And we set a course to addressing the specific problem area. We fix urgent things first, maybe not with the final application, but with quick easy scripts that will help them with their current excel files, etc. Whatever is needed to bring efficiencies to them from the start.
+
+And once we start writing the actual business application, start small, we keep it simple and we deploy as soon as we can, and often.
+
+Now, doesn’t this recipe sound familiar? Imagine my surprise when I heard about Rails about 4 years ago.

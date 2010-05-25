@@ -1,0 +1,7 @@
+Still, the move to Rails was a risky one.  We knew nothing of Ruby and my team, only had academic training in object oriented programming.
+
+And here I was willing to bet the company on it. I also knew that if I was going to change direction, the move would have to be a decisive one, no tip toeing into the pool. I had to take the plunge to see if this was worth while. 
+
+What encouraged me were the core values that Rails embodied. They were so in sync with how we did things; it just seemed right. 
+
+So I discussed it with the President of the company, and he trusts me on this matters, so he gave me the green light.

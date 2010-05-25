@@ -1,0 +1,11 @@
+But, if you recall, I have been CIO for the past 12 years. Before Rails, we were already doing this iterative simple approach to business application development.
+
+So what did we use? Surely I was not using Java or .NET or any other enterprise level development environment. 
+
+I am too HANDS ON not to realize the overhead in using those toolsets. I just do not have the resources to develop in these frameworks, they are a time sink and that does not even count the licensing fees, etc.
+
+We used a product that I bet very few of you have heard of. We used 4th Dimension, or 4D. This product is a relational database/application development environment all in one package. It is from this company called ACI in France.
+
+Remember the Database Design class I took early in my career? That class was given by ACI US in Cupertino. At the time I went for training, the only computer I owned was a Macintosh thanks to Drexel University and their requirement to have students buy Macs. 
+
+And the only relational database on the Mac at the time was 4D.  So by mere chance I got involved with 4D. I liked how intuitive it was. I took that class and saw how the procedural language had enough structure and depth to be able to write business applications with it.

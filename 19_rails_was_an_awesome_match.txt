@@ -1,0 +1,7 @@
+I could not believe it. Similar to my aha moment when I read Accidental Empires, here I was having another epiphany moment reading Getting Real from 37 Signals. 
+
+I found a toolset that not only was good, but it shared our core beliefs on how software should be built. No wonder Rails was so good, it was built on so many good principles.
+
+Our culture of frequent, iterative business application building was a natural match to Rails.
+
+What sealed the deal was that everyone I met in the community was HANDS ON, real life experts. And my definition of experts requires the person to be hands on, not the marketing types that pitch you a framework but have no idea what they are talking about.

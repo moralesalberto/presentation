@@ -1,0 +1,18 @@
+Buying an ERP application or business process application is just not practical.
+
+So being the CIO, I get to choose what we do. And I choose to write our own applications. 
+
+And when I say I write! I mean it. Not only do I foster a culture where internal development is the most important part of IT,  I myself write applications. I spend as much time as I can in this area. Probably 20% of my time is spent writing code. When I tell people I am a HANDS ON CIO, I truly mean it. But I am not the guy that micromanages employees. No, I am just another team member inprojects, and I roll up my sleeves and write code too. 
+
+If I truly believe the value that IT provides to the enterprise is in the business applications, I better have HANDS ON involvement in this area. Specifying requirements, or deciding whether to embarc on a rewrite, I better know what I am signing up to do. 
+
+Having done this for the past 13 years, I know what exactly it takes to design, develop, implement, test and maintain a business application. When I tell another VP at OPNET that we will help them out, I know exactly what I am signing up to do.
+
+So, does writing your own business applications work? 
+
+When I first started this job, several of my peers would caution me; "Alberto, that is not your core business. This will distract the business." Initially I wondered about this. But now, I am convinced this is very much my business. And it does not distract my team nor the business. If we bought the applications, we would still need staff involved in the process. Might as well be involved in the writing part too.
+
+
+Actually, the task is not as large as it is made out to be. A key concept that is different from packaged commercial applications, is that there is only one customer to satisfy. 
+
+If you think about it, the project is simplified quite a bit, there is little generalization needed, we can leverage other applications data since it uses the same codebase, etc. And if you use internal development, the team knows of all the other installed applications that can work with each other. And they get to know the business processes very well.

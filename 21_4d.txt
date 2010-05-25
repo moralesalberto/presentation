@@ -1,0 +1,11 @@
+I got started with 4D in the client/server days, so my first applications with it, even at OPNET were in client server mode. As the Internet took hold, 4D upgraded the product and offered a web listener and provided a way to hook into the web request. And for response, it had the equivalent of erb files to provide dynamic web pages. And that was enough for us to build our business applications with. We still leveraged the functions we had written for the client server mode and adapted most of it to the web. Any new apps, we just built them for web.
+
+4D is still around, offering the same core features, client/server, web listener, web services. It has everything you need (database, programming language, web listener all packaged into one system). And when you run it, you run all those functions in the same process, so it is lightning fast. You get all this for less than a thousand bucks, not bad at all.
+
+We still use 4D today, it runs quite a few mission critical applications. We no longer actively drive new projects with it, but we still maintain the existing codebase.
+
+It is another toolset that values SIMPLICITY. And that was the main reason we liked it so much. We could build powerful applications quickly. No need for a full featured language, or layers upon layers of code just to get the database talking to the web server for example.
+
+Eventually we outgrew it though. We were constantly pushing the limits trying to embed complex business logic into a procedural language. And the community is tiny, so there is no mindshare to leverage.
+
+We knew we had to move on, but there was nothing out there that seemd to fit. That is until Rails came along. Rails could not have come out at a better time for us.
