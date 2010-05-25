@@ -1,0 +1,6 @@
+At this point, most enterprises ask themselves the question, should we write or buy this business application?
+
+They weigh in factors such as what do they have in house already, what is their culture like, what is their current load, etc.
+
+And, not surprisingly, most enterprises buy.
+

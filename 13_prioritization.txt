@@ -1,0 +1,10 @@
+I ask myself a few key questions. 
+
+Will the application allow us to generate more revenue? 
+Is the application customer facing? 
+If so those are top priorities, then we just select among them based on scale of impact.
+
+After these, you have applications that affect compliance. Those are must do type of apps, and we need to distill the essence of what is needed and not spend any more time than necessary on them. However they are important. Auditors will love an automated, structured system of internal controls.
+
+Last, we have internal efficiencies. These are good, but sometimes we can not get to them. Sure they can save money, but there is nothing like identifying and working on a revenue generating app.
+

@@ -1,0 +1,27 @@
+Most enterprises today buy their business applications. And why not, it makes sense. These are the needs I have, some other must have had similar needs, I am sure there is something already that solves this problem area.
+
+Unfortunately, buying a typical enterprise application is anything but simple. Enterprise application vendors will tell you that they have built a solid, full featured system to handle all your business needs.
+
+Does it do compliance? SURE!
+
+Does it deal with software revenue recognition? SURE!
+
+Can I ship overseas with export control? SURE!
+
+Can it handle multiple currencies, and tax compliance worldwide? SURE!
+
+Think who is asking this question, and who is answering it? The person asking the question is a business person, no knowledge of how this is remotely implemented. And think about the person answering; this is the account manager. Maybe even the presales engineer, that could not open the source code even if his life depended on it. These are the people that seal the deal.
+
+So while there are good intentions from the vendor, the way the ERP application was built
+
+So what are these ERP packages like? Imagine if you took the rails applications from 50 of you, all the rails applications that you have written in the last 5 years, and packaged them together. That would give you an idea of an entry level ERP system. Imagine the configuration nightmares to make all those apps work together. Let alone the configuration needed to make them work for all kinds of customers. 
+
+ERP vendors buy other smaller ERP companies and just add those other applications into the mix. So even within the same label, you are dealing with different code sets, etc.
+
+And implementing an ERP application is the biggest bait and switch there is. If these are packaged apps, why does it take years to implement? Why do you go through requirements gathering, configuration, testing, etc. Not only that but this “configuration” sometimes involves customizations. So not only do you have to configure, now you have to customize something that you are not familiar at all. So you pay for consultants to help you. and they do not know how to do this, because the outcome of mixing general configuration with code customizations is a nightmare. One peg pushed one place pops up a bug somewhere else. Someone adds a constraint in HR employee creation, now Project Costing does not work.
+
+Still most businesses go this route. They are slowly waking up to the mess they are in, but they find themselves buried with all this software in their operations. It is hard to remove. And I am no exception. I have purchased a couple of ERP applications during my tenure, and I removed one, and we are learning to live with the other. 
+
+Sometimes you can not avoid it, you will have packaged apps in the enterprise.
+
+

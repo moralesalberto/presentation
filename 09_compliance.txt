@@ -1,0 +1,18 @@
+With IT in the enterprise, something else creeps up. Specially if you are a public company, or a company dealing with the health care industry or financial services industry.
+
+You need to deal with compliance and regulations. Unfortunately, there is nothing you can do about avoiding it, you just have to do it.
+
+The thing about compliance is that there are only “guidelines”. There are no hard set of instructions that if you follow you are compliant. No recipe that you pay a consultant, you go through the bullet points and you are done. No, they tell you, every business is different. Oh how consultants lovel that line. Not surprisingly, compliance has created a whole industry of consultants to help companies be compliant.
+
+Again keep it in perspective. It is a necessary evil, but you can still keep it simple. Read the regulations yourself, find the sentence or phrase that you are trying to comply with and address just that. 
+
+I can tell you from experience that all these compliance issues converge on some key points:
+
+Security (Do you have controls in place that ensure no one can get to the systems that is not authorized)
+Segregation of Duties (To prevent fraud, ensure not a single person can completely control one process)
+Documentation/Communication (Do staff know about the regulations, do they know how they can cause fraud or be part of this)
+Oversight(Is anyone reviewing this, are Managers ensuring the processes are followed?)
+
+We have honed compliance to a science now. We are fully SOX compliant, pass with flying colors, but that has not robbed us of the agility we pride ourselves in.
+
+Compliance is a necessary evil, but one that can be kept at bay so that it does not slow you down.

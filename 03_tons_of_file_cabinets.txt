@@ -1,0 +1,11 @@
+He continues and says, “Alberto, if an airplane goes down, and our brakes are questioned, 
+we want to be able to trace all our data all the way back. Cradle to grave.”
+
+I understood the need for traceability, but this was ridiculous. This is 1991, so I knew there were better ways to do this. So I go to my boss and I tell him we have to computerize this QA stuff. 
+
+He tells me, “Alberto, you know the budget for this project very well; we never planned to have the QA part computerized, so this is not in the budget.”
+
+“But we have money in training”, I say. You see we had to train the employees that would run these lines, etc. “So, I will teach myself this stuff and write the program myself” I tell him.
+
+You have to understand the aerospace industry. It moves at a glacial pace. We were just at the prototype step, I had a year or two before these plants would be operational. And I had a Bachelors and Masters in Science after all. I had taken programming courses, I had FORTRAN, Pascal, C. I knew how to program; I just never saw a practical need for programming for my job duties. Now I had a real need, I had a manufacturing line I had worked hard at and wanted to be proud of it. This line had to be automated, even if I had to write the programs myself.
+

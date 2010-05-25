@@ -1,0 +1,18 @@
+First you need to take care of what I call the plumbing. The network, firewalls, infrastructure, comms, staff systems. That stuff just has to run. 
+
+I rely almost entirely on open source technology to do this. I have expert sys admins that take care of this. And by experts I mean they are HANDS ON. I see so many resumes of System Administrators with Microsoft Certified Engineering certifications, Cisco Network Engineer, Juniper certification, etc. When I interview them, I ask them, “Can you setup my switch?”. They go, “Well, I have not played with that specific model switch”.
+
+That is bull! My guys download the configuration, read it, get on the web to find out how others have done it, try it themselves, test it, DONE!
+
+I do not want certified people. I want HANDS ON people. If they play with open source software, that is a good sign. If they do it on their own time, even better! Heck you can buy switches, routers on ebay for a couple hundred bucks! If I was a sys admin, and I can hold my own there, I would have a few of these devices at home. 
+
+Once I have the right staff, we are not afraid to implement open source technology throughout the infrastructure. We start with CentOS, we use XenServer for vm, Xenoss for monitoring, we use rsnapshot with rsync for backup, Dovecot, PostFix and Roundcube for email. Now we are not going to dismiss commercial products, there are some that provide value per $ spent. For example we use Barracuda as our spam filter, priced appropriately, less than $5K for the box and about $1K/year. That is value, so we buy it. 
+
+For file servers, we do not use Netapp or EMC boxes which would costs in the millions for an enterprise our size. We use Dell storage arrays with CentOs, unix nfs and samba. We use scripts to map unix nfs to samba permissions so users transparently can access their files from either OS. And we do this for a tenth of the cost.
+
+For network and application troubleshooting, well there I am a kid in the candy store. We are OPNET after all. So, I have ACE Live, ACE Analyst, all kinds of appliances to help us explain whether the issue is the network or the application.
+
+As proud as I am of the staff that run the infrastructure, as proud as I am of the money they save the enterprise, I know, and they know that this is just infrastructure.
+
+Keep IT Infrastructure in perspective. It is just plumbing!
+
