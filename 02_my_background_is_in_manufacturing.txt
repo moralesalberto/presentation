@@ -1,0 +1,7 @@
+Let me start by telling you a bit about myself. I do not have a formal IT background.  My background is manufacturing.
+
+I have a Masters in Materials Engineering, and my first job out of school was for an aerospace materials supplier. I designed manufacturing lines. I remember working on this job designing a manufacturing line for carbon carbon brake materials.
+
+So, we were adding the finishing touches on a prototype manufacturing line, when I noticed the QA guy walking the line with a bunch of clipboards, and hanging each at different points in the line. I asked him what he was doing, and he says, “Well Alberto, you see, we have to take data points for our control charts. We take measurements every step of the way, we write the results, and plot the three sigma deviations above and below. That is how we ensure the line in on track”.
+
+I tell him, “Do you realize these lines will run 24/7? That is a lot of paper!”. And he goes “I know!”  So he takes me to this room, this warehouse full of file cabinets and shows me how they did this for other manufacturing lines.

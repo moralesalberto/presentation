@@ -1,0 +1,7 @@
+Good morning everyone.
+
+I am Alberto Morales,  CIO of OPNET Technologies. OPNET is a medium sized enterprise with  500 employees, a public company, and in business for 20 years. We are a software company selling products to large enterprises to help them troubleshoot their networks and applications. We use Rails extensively to help us run our internal operations.
+
+When Chad Fowler asked me to present at Rails Conf, I readily agreed. It is time for me to share our story with the Rails community. It is the least we can do. We have benefited tremendously from the ecosystem you all have created, and for that I am grateful to you all. 
+
+So today, I will tell you my viewpoint regarding IT, and how Rails fits in our environment.
