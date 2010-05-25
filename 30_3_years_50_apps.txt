@@ -4,4 +4,4 @@ We are so quick now, that business processes get automated quickly, painlessly. 
 
 From development code base, to deployment strategy, it is so automated, and proof of that is the fact that over 50 apps are up and running, on 10 plus servers, with mysql replication for data backup, automatic feed to our colocated facility, an incredible level of automation.
 
-The whole business application system, from idea to runnings application has been streamlined.
+The whole business application system, from idea to runnings application has been streamlined. And here is where Rails shines. I know of no other framework that concentrates on the whole life cycle of software development in a practical, opionated manner.

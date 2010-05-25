@@ -1,1 +1,5 @@
-I hope you sense my excitement with Rails in the enterprise. We use Rails every day, to help us streamline real business processes.
+I hope you sense my excitement with Rails in the enterprise. 
+
+We use Rails every day, to help us streamline real business processes.
+
+I know of no other toolset that is so practical, so elegant and so powerful. All in a simple to use approach.

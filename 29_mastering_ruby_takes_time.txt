@@ -12,6 +12,6 @@ But once this is mastered, the applications read beautifully. And maintaining an
 
 Remember, we started with zero knowledge in Ruby. Zero knowledge in Rails, and only academic knowledge of object oriented programming.
 
-The team has read quite a bit, I have purchased pretty much every Ruby book out there, and we all have read them. We block some afternoons and we do code reviews as a group, each of us presents a problem area we have trouble with and as a group we work on making that code read better.
+The team has had to do quite a bit of work. They have read a lot, I have purchased pretty much every Ruby book out there, and we all have read them. We block afternoons every couple of months and we do code reviews as a group, each of us presents a problem area we have trouble with and as a group we work on making that code read better.
 
 I am happy with the results, but it took time to get here. Time well spent nonetheless.

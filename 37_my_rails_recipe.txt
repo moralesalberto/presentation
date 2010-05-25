@@ -1,0 +1,8 @@
+So what is my rails recipe for the effective use in the enterprise?
+
+Foster a hands-on culture
+Use internal developers
+Use advisors
+Give yourself time to master Ruby
+
+Then watch how Rails provides real value to the enterprise!
